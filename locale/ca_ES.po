@@ -1,0 +1,27 @@
+# 
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "view:sale.sale:"
+msgid "Are you sure to cancel sales?"
+msgstr "Esteus segurs de cancel·lar les ventes?"
+
+msgctxt "view:sale.sale:"
+msgid "Cancel"
+msgstr "Cancel·la"
+
+msgctxt "view:sale.sale:"
+msgid "Confirm"
+msgstr "Confirma"
+
+msgctxt "view:sale.sale:"
+msgid "Draft"
+msgstr "Esborrany"
+
+msgctxt "view:sale.sale:"
+msgid "Process"
+msgstr "Processa"
+
+msgctxt "view:sale.sale:"
+msgid "Quote"
+msgstr "Pressupost"
